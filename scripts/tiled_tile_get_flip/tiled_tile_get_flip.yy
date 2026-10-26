@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"tiled_tile_get_flip",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"tiled_tile_get_flip",
+  "parent":{
+    "name":"Tiles",
+    "path":"folders/Tiled/Compatibility/Tiles.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

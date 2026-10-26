@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TiledTileLayer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TiledTileLayer",
+  "parent":{
+    "name":"Classes",
+    "path":"folders/Tiled/Classes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

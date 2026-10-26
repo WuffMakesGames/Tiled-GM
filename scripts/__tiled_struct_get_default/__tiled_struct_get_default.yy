@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__tiled_struct_get_default",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__tiled_struct_get_default",
+  "parent":{
+    "name":"Helpers",
+    "path":"folders/Tiled/Functions/Helpers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

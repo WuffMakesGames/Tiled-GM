@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"tiled_load_tileset",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"tiled_load_tileset",
+  "parent":{
+    "name":"Loading",
+    "path":"folders/Tiled/Functions/Loading.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

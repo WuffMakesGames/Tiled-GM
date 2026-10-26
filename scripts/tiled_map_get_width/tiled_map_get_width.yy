@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"tiled_map_get_width",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"tiled_map_get_width",
+  "parent":{
+    "name":"Map",
+    "path":"folders/Tiled/Compatibility/Map.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

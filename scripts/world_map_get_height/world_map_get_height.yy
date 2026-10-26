@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"world_map_get_height",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"world_map_get_height",
+  "parent":{
+    "name":"World",
+    "path":"folders/Tiled/Compatibility/World.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

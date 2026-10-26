@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"world_map_list_at",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"world_map_list_at",
+  "parent":{
+    "name":"World",
+    "path":"folders/Tiled/Compatibility/World.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

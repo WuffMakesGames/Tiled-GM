@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"tiled_layer_tilelayer_get_id",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"tiled_layer_tilelayer_get_id",
+  "parent":{
+    "name":"Tilemaps",
+    "path":"folders/Tiled/Compatibility/Tilemaps.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TiledWorld",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TiledWorld",
+  "parent":{
+    "name":"Elements",
+    "path":"folders/Tiled/Classes/Elements.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

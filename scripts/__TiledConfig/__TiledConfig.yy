@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__TiledConfig",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__TiledConfig",
+  "parent":{
+    "name":"Core",
+    "path":"folders/Tiled/Core.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

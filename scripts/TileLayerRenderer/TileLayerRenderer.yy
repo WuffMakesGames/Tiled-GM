@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TileLayerRenderer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TileLayerRenderer",
+  "parent":{
+    "name":"Rendering",
+    "path":"folders/TiledExtensions/Rendering.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

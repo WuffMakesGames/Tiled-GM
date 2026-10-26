@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__tiled_parse_properties_list",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__tiled_parse_properties_list",
+  "parent":{
+    "name":"Parsing",
+    "path":"folders/Tiled/Functions/Parsing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

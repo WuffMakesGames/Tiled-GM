@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shd_tiled_draw_tilelayer",
+  "name":"shd_tiled_draw_tilelayer",
+  "parent":{
+    "name":"Rendering",
+    "path":"folders/TiledExtensions/Rendering.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}
